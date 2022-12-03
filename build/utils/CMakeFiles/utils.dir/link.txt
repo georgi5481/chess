@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutils.a CMakeFiles/utils.dir/src/drawings/DrawParams.cpp.o CMakeFiles/utils.dir/src/drawings/Point.cpp.o CMakeFiles/utils.dir/src/drawings/Color.cpp.o CMakeFiles/utils.dir/src/drawings/Rectangle.cpp.o CMakeFiles/utils.dir/src/thread/ThreadUtils.cpp.o CMakeFiles/utils.dir/src/Time/Time.cpp.o
+/usr/bin/ranlib libutils.a
